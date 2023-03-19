@@ -70,7 +70,7 @@ if(isset($_POST['login_submit'])) {
                     </div>
                     <div class="col-lg-6">
                         <h1>Sign Up</h1>
-                        <?php include("../signup.php"); ?>
+                        <?php include("signup.php"); ?>
                     </div>
                 </div>
             </div>
